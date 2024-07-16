@@ -1,64 +1,46 @@
-Project Title
-A brief description of your project and what it does.
+# Graduate Projects Portfolio
 
-Table of Contents
-Introduction
-Features
-Installation
-Usage
-Contributing
-License
-Contact
-Introduction
-Provide a more detailed explanation of your project, its purpose, and any background information that might be helpful for users or contributors.
+## Introduction
 
-Features
-List the main features of your project:
+Welcome to my portfolio of final projects from the University of Colorado Boulder (SKO BUFFS!) Graduate Program. This repository showcases a variety of projects focused on Machine Learning and Data Science, reflecting my specialization in this field.
 
-Feature 1
-Feature 2
-Feature 3
-Installation
-Instructions on how to install and set up your project. You can include code snippets to make it clear.
+Throughout my graduate studies, I have undertaken numerous challenging courses, and this portfolio is a testament to the knowledge and skills I've acquired. As I continue to grow, I will add more projects and files to demonstrate the depth and intensity of my coursework.
 
-bash
-Copy code
-# Clone the repository
-git clone https://github.com/your-username/your-repository.git
+Please note that some files are missing due to changes in CU's agreement with Google Docs, which unfortunately led to the loss of some documents. However, I remain committed to updating this repository with comprehensive documentation of my skills and academic journey.
 
-# Navigate to the project directory
-cd your-repository
+## Table of Contents
 
-# Install dependencies
-npm install
-Usage
-Provide examples of how to use your project. Include code snippets, screenshots, or any other relevant content.
+1. [Introduction](#introduction)
+2. [Projects](#projects)
+3. [Contact](#contact)
 
-bash
-Copy code
-# Example command to run the project
-npm start
+## Projects
 
-# Example code snippet
-const example = 'Hello, World!';
-console.log(example);
-Contributing
-Guidelines for contributing to your project. This could include how to report issues, submit pull requests, and any code of conduct you want contributors to follow.
+List and describe your projects here, for example:
 
-Fork the repository
-Create a new branch (git checkout -b feature-branch)
-Make your changes
-Commit your changes (git commit -m 'Add some feature')
-Push to the branch (git push origin feature-branch)
-Open a pull request
-License
-Specify the license under which your project is distributed. For example:
+### CSCI 5922: Neural Networks
+- **Description**: Final Project to explore whether file compression or generation would be better for the classification of images.
+- **Technologies Used**: Python, Keras, pandas
+- **Skills Demonstrated**: Autoencoders, Model Evaluation, Image Classification
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+### ECEE 265: Artificial Intelligence for Eningeers
+- **Description**: Generating new sneaker designs and colorways using Stability.AI
+- **Technologies Used**: Python, FastAI, PyTorch, Numpy
+- **Skills Demonstrated**: Image Classification, Image Generation
 
-Contact
-Provide your contact information for anyone who wants to get in touch with you regarding the project.
+### ECEN 5322: Data Science
+- **Description**: Predicting Recessions and duration
+- **Technologies Used**: Python, Matplotlib, Pandas, Numpy
+- **Skills Demonstrated**: Data cleaning, Data Visualization, Model Evaluation
+- 
+### ECEN 5712: Machine Learning for Engineers
+- **Description**: Creating EDM Music with Hidden Markov Model 
+- **Technologies Used**: Python, Tensorflow, Pandas, Numpy
+- **Skills Demonstrated**: Data Extraction, Music Generation, Data Transformation
 
-Email: your.email@example.com
-GitHub: your-username
-LinkedIn: your-linkedin
+## Contact
+
+For questions, feedback, or suggestions, feel free to reach out:
+
+- **Email**: Alexander.Theodore.Ho@gmail.com
+- **Linkedin**: https://www.linkedin.com/in/alexander-theodore-ho/
